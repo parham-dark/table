@@ -8,7 +8,7 @@
 "jender":"male",
 "phone":"09196428954",
 "serialNumber":"457126",
-}
+},
 {
 "firstName":"حمید",
 "lastName":"گودرزی",
@@ -18,7 +18,7 @@
 "jender":"male",
 "phone":"09196428954",
 "serialNumber":"457126",
-}
+},
 {
 "firstName":"علی",
 "lastName":"حرسند",
@@ -28,7 +28,7 @@
 "jender":"male",
 "phone":"09196428954",
 "serialNumber":"457126",
-}
+},
 {
 "firstName":"هادی",
 "lastName":"آشتیانی",
@@ -38,7 +38,7 @@
 "jender":"male",
 "phone":"09196428954",
 "serialNumber":"457126",
-}
+},,
 {
 "firstName":"عیسی",
 "lastName":"آل کثیر",
@@ -48,7 +48,7 @@
 "jender":"male",
 "phone":"09196428954",
 "serialNumber":"457126",
-}
+},
 {
 "firstName":"عسل",
 "lastName":"کوثری",
@@ -58,7 +58,7 @@
 "jender":"female",
 "phone":"09196428954",
 "serialNumber":"457126",
-}
+},
 {
 "firstName":"زهرا",
 "lastName":"حمیدی",
@@ -68,7 +68,7 @@
 "jender":"female",
 "phone":"09196428954",
 "serialNumber":"457126",
-}
+},
 {
 "firstName":"فاطمه",
 "lastName":"عبدی",
@@ -78,7 +78,7 @@
 "jender":"female",
 "phone":"09196428954",
 "serialNumber":"457126",
-}
+},
 {
 "firstName":"ساناز",
 "lastName":"فلاحی",
@@ -88,7 +88,7 @@
 "jender":"female",
 "phone":"09196428954",
 "serialNumber":"457126",
-}
+},
 {
 "firstName":"شهلا",
 "lastName":"میرزایی",
@@ -98,5 +98,5 @@
 "jender":"female",
 "phone":"09196428954",
 "serialNumber":"457126",
-}
+},
 ]
