@@ -7,7 +7,7 @@
 "date":"1370/12/24",
 "jender":"male",
 "phone":"09196428954",
-"serialNumber":"457126",
+"serialNumber":"457126"
 },
 {
 "firstName":"حمید",
@@ -17,7 +17,7 @@
 "date":"1370/12/24",
 "jender":"male",
 "phone":"09196428954",
-"serialNumber":"457126",
+"serialNumber":"457126"
 },
 {
 "firstName":"علی",
@@ -27,7 +27,7 @@
 "date":"1370/12/24",
 "jender":"male",
 "phone":"09196428954",
-"serialNumber":"457126",
+"serialNumber":"457126"
 },
 {
 "firstName":"هادی",
@@ -37,8 +37,8 @@
 "date":"1370/12/24",
 "jender":"male",
 "phone":"09196428954",
-"serialNumber":"457126",
-},,
+"serialNumber":"457126"
+},
 {
 "firstName":"عیسی",
 "lastName":"آل کثیر",
@@ -47,7 +47,7 @@
 "date":"1370/12/24",
 "jender":"male",
 "phone":"09196428954",
-"serialNumber":"457126",
+"serialNumber":"457126"
 },
 {
 "firstName":"عسل",
@@ -57,7 +57,7 @@
 "date":"1370/12/24",
 "jender":"female",
 "phone":"09196428954",
-"serialNumber":"457126",
+"serialNumber":"457126"
 },
 {
 "firstName":"زهرا",
@@ -67,7 +67,7 @@
 "date":"1370/12/24",
 "jender":"female",
 "phone":"09196428954",
-"serialNumber":"457126",
+"serialNumber":"457126"
 },
 {
 "firstName":"فاطمه",
@@ -77,7 +77,7 @@
 "date":"1370/12/24",
 "jender":"female",
 "phone":"09196428954",
-"serialNumber":"457126",
+"serialNumber":"457126"
 },
 {
 "firstName":"ساناز",
@@ -87,7 +87,7 @@
 "date":"1370/12/24",
 "jender":"female",
 "phone":"09196428954",
-"serialNumber":"457126",
+"serialNumber":"457126"
 },
 {
 "firstName":"شهلا",
@@ -97,6 +97,6 @@
 "date":"1370/12/24",
 "jender":"female",
 "phone":"09196428954",
-"serialNumber":"457126",
+"serialNumber":"457126"
 },
 ]
